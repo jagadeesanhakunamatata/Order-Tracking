@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TrackApplication</string>
+
+    <string name="menu_orders">Orders</string>
+    <string name="menu_map_orders">Orders Map View</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About SmartJO</string>
+    <string-array name="assignment_tab_title">
+        <!--<item>Images</item>-->
+        <item>NearyBy</item>
+        <item>Upcoming</item>
+        <item>Completed</item>
+    </string-array>
+    <string-array name="admin_tab_title">
+        <!--<item>Images</item>-->
+        <item>Orders</item>
+        <item>Customers</item>
+        <item>Salesmen</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_user_home">UserHomeActivity</string>
+    <string name="title_activity_admin_home">AdminHomeActivity</string>
+</resources>

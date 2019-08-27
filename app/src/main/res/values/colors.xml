@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3D425E</color>
+    <color name="colorPrimaryDark">#3D425E</color>
+    <color name="colorAccent">#ED9041</color>
+
+    <!--Login Activity-->
+    <color name="login_bg">#CB0101</color>
+    <color name="white">#FFFFFF</color>
+    <color name="tab_bg">#EDEDED</color>
+    <color name="black">#000000</color>
+    <color name="login_text">#212222</color>
+    <color name="image_bg">#EFEFEF</color>
+    <color name="tuna">#323235</color>
+    <color name="upload_bg">#ecebeb</color>
+    <color name="swamp">#00130f</color>
+
+    <color name="label_color">#cc0000</color>
+    <color name="guardsmanRed">#d10200</color>
+    <color name="brightRed">#A00201</color>
+    <color name="shadowcolor">#ebebeb</color>
+    <color name="codGray">#181818</color>
+    <color name="gray">#8c8c8c</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="semitransparent">#77000000</color>
+    <color name="fulltransparent">#00ffffff</color>
+    <color name="halftransparent">#77000000</color>
+    <color name="ebb">#F1ECEC</color>
+    <color name="bonJour">#E5E0E0</color>
+    <color name="pause">#ffc807</color>
+    <color name="play">#26b8ff</color>
+    <color name="complete">#31d456</color>
+    <color name="boulder">#7b7a7a</color>
+    <color name="tag_text_color">#666666</color>
+    <color name="line_color">#D10200</color>
+    <color name="shadow_color">#FF000000</color>
+    <color name="background_progress_color">#6C6D6D</color>
+    <color name="progress_color">@color/colorPrimary</color>
+    <color name="wild_sand">#f6f6f6</color>
+    <color name="dusty_gray">#999999</color>
+    <color name="silver">#B9B8B8</color>
+    <color name="azureRadiance">#0486FD</color>
+    <color name="hokeyPokey">#cdae2d</color>
+    <color name="la_palma">#209810</color>
+    <color name="supernova">#ffce00</color>
+    <color name="dodger_blue">#30beff</color>
+    <color name="emerald">#3AD861</color>
+    <color name="gallery">#ececec</color>
+    <color name="scarpa_flow">#565663</color>
+
+
+    <!--Color with Opacity-->
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="guardsmanRed_50">#80d10200</color>
+    <color name="dusty_gray_40">#66999999</color>
+    <color name="mineShaft_30">#4D2B2B2B</color>
+    <color name="alto">#DDDDDD</color>
+    <color name="tundora">#404040</color>
+    <color name="guardsmanRedAlpha10">#0DD30200</color>
+    <color name="mineShaft">#282828</color>
+    <color name="black_50">#80020202</color>
+    <color name="black_10">#0D000000</color>
+
+    <color name="supernova_80">#CCffce00</color>
+    <color name="dodger_blue_80">#CC30beff</color>
+    <color name="emerald_80">#CC3AD861</color>
+    <color name="mine_shaft_20">#33282828</color>
+
+    <color name="botticelli">#D9E2EE</color>
+    <color name="offline_color">#f44336</color>
+    <color name="online_color">#4CAF50</color>
+    <color name="orange">#FFA500</color>
+    <color name="labelcolor">#4B515A</color>
+    <color name="availablecolor">#229B47</color>
+    <color name="assignmentbgcolor">#F2F2F2</color>
+    <color name="riskcolor">#F14343</color>
+    <color name="mediumcolor">#FA9E1A</color>
+    <color name="lowcolor">#229B47</color>
+    <color name="whitecolor">#FFFFFF</color>
+    <color name="inrange">#263C25</color>
+
+</resources>
+
+
